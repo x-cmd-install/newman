@@ -7,7 +7,7 @@ about:
   head: 942d139
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:32:24Z
+  collectedAt: 2026-09-04T20:58:56Z
 timeline:
   created: 2014-03-05
   lastCommit: 2026-01-16
@@ -82,6 +82,49 @@ total:
   openIssue: 255
   commit: 4110
 ---
+path: /home/runner/.x-repo/github.com/postmanlabs/newman
+collectedAt: 2026-09-04T20:58:58Z
+loc:
+  Json:
+    code: 21104
+    comments: 0
+    blanks: 8
+    files: 93
+  JavaScript:
+    code: 6132
+    comments: 1384
+    blanks: 1391
+    files: 72
+  Yaml:
+    code: 816
+    comments: 6
+    blanks: 13
+    files: 3
+  Sh:
+    code: 92
+    comments: 16
+    blanks: 24
+    files: 2
+  Dockerfile:
+    code: 32
+    comments: 37
+    blanks: 15
+    files: 2
+  Xml:
+    code: 8
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1027
+    blanks: 358
+    files: 8
+total:
+  code: 28418
+  comments: 2479
+  blanks: 1816
+  files: 181
 ---
 date: "2026-08-24"
 repo:
