@@ -12,29 +12,7 @@ Newman is a command-line collection runner for Postman
 x install newman
 ```
 
-## Source
-
-- **Upstream**: <https://github.com/postmanlabs/newman>
-- **Homepage**: <https://www.postman.com>
-- **License**: Apache-2.0
-
-## Popularity
-
-- **Stars**: 7,252 · **Forks**: 1,228 · **Open issues**: 1,390 · **Contributors**: 124
-
-## Totals (cumulative)
-
-- **Releases**: 0 · **Merged PRs**: 1109 · **Open PRs**: 81 · **Closed issues**: 1135 · **Open issues**: 255 · **Commits**: 4110
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 3 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 13 | 1 | 5 | 0 |
-| 360d | 2025-09-15 | 0 | 1 | 20 | 8 | 15 | 2 |
-
-## Code size
+## Code insight
 
 Total: **28,184** lines of code across **172** files in the top 5 languages.
 
@@ -56,6 +34,40 @@ Lowest-scoring checks:
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
+## Source
+
+- **Upstream**: <https://github.com/postmanlabs/newman>
+- **Homepage**: <https://www.postman.com>
+- **License**: Apache-2.0
+
+## Popularity
+
+- **Stars**: 7,252 · **Forks**: 1,228 · **Open issues**: 1,390 · **Contributors**: 124
+
+## Totals (cumulative)
+
+- **Releases**: 0 · **Merged PRs**: 1109 · **Open PRs**: 81 · **Closed issues**: 1135 · **Open issues**: 255 · **Commits**: 4110
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 12 | 1 | 5 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 13 | 1 | 5 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 18 | 1 | 8 | 0 |
+| 360d | 2025-09-15 | 0 | 1 | 20 | 8 | 15 | 2 |
+| last720d | 2024-09-20 | 0 | 1 | 31 | 11 | 41 | 3 |
+
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/newman). **3** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `6.2.2` | ✅ latest |
+| Nix unstable | `6.2.2` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for newman lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `newman` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -65,4 +77,4 @@ Install metadata for newman lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:00:20Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:09:42Z._
