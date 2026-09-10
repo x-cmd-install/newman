@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:29:38Z
+  collectedAt: 2026-09-10T16:00:14Z
 timeline:
   created: 2014-03-05
   lastCommit: 2026-01-16
@@ -85,7 +85,7 @@ total:
   commit: 4110
 ---
 path: /home/runner/.x-repo/github.com/postmanlabs/newman
-collectedAt: 2026-09-10T04:29:40Z
+collectedAt: 2026-09-10T16:00:16Z
 loc:
   Json:
     code: 21104
