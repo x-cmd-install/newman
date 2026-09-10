@@ -1,0 +1,85 @@
+- repo: aur
+  srcname: newman
+  binname: newman
+  visiblename: newman
+  version: 6.2.1
+  origversion: 6.2.1-1
+  status: outdated
+  summary: Newman is a command-line collection runner for Postman
+  maintainers:
+    - abdulocracy@aur
+  licenses:
+    - Apache
+- repo: homebrew
+  srcname: newman
+  visiblename: newman
+  version: 6.2.2
+  origversion: null
+  status: newest
+  summary: Command-line collection runner for Postman
+- repo: nix_stable_24_05
+  srcname: newman
+  visiblename: newman
+  version: 6.1.2
+  origversion: null
+  status: outdated
+  summary: A command-line collection runner for Postman
+  maintainers:
+    - freezeboy@github
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: newman
+  visiblename: newman
+  version: 6.2.1
+  origversion: null
+  status: outdated
+  summary: Command-line collection runner for Postman
+  maintainers:
+    - freezeboy@github
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: newman
+  visiblename: newman
+  version: 6.2.1
+  origversion: null
+  status: outdated
+  summary: Command-line collection runner for Postman
+  maintainers:
+    - freezeboy@github
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: newman
+  visiblename: newman
+  version: 6.2.1
+  origversion: null
+  status: outdated
+  summary: Command-line collection runner for Postman
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: newman
+  visiblename: newman
+  version: 6.2.2
+  origversion: null
+  status: newest
+  summary: Command-line collection runner for Postman
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: newman
+  visiblename: newman
+  version: 6.2.2
+  origversion: null
+  status: newest
+  summary: Command-line collection runner for Postman
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
