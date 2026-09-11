@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:28:32Z
+  collectedAt: 2026-09-11T20:44:00Z
 timeline:
   created: 2014-03-05
   lastCommit: 2026-01-16
@@ -20,7 +20,7 @@ popularity:
   fork: 1228
   release: 0
   contributor: 124
-  pullRequest: 1913
+  pullRequest: 1914
   issue: 1390
 language:
   JavaScript: 337443
@@ -32,7 +32,7 @@ recent:
     since: 2026-08-12
     release: 0
     mergedPR: 0
-    openPR: 3
+    openPR: 4
     closedIssue: 0
     openIssue: 1
     commit: 0
@@ -40,7 +40,7 @@ recent:
     since: 2026-07-13
     release: 0
     mergedPR: 0
-    openPR: 11
+    openPR: 12
     closedIssue: 1
     openIssue: 5
     commit: 0
@@ -48,7 +48,7 @@ recent:
     since: 2026-06-13
     release: 0
     mergedPR: 0
-    openPR: 13
+    openPR: 14
     closedIssue: 1
     openIssue: 5
     commit: 0
@@ -56,7 +56,7 @@ recent:
     since: 2026-03-15
     release: 0
     mergedPR: 0
-    openPR: 18
+    openPR: 19
     closedIssue: 1
     openIssue: 8
     commit: 0
@@ -64,7 +64,7 @@ recent:
     since: 2025-09-16
     release: 0
     mergedPR: 1
-    openPR: 20
+    openPR: 21
     closedIssue: 8
     openIssue: 15
     commit: 2
@@ -72,20 +72,20 @@ recent:
     since: 2024-09-21
     release: 0
     mergedPR: 1
-    openPR: 31
+    openPR: 32
     closedIssue: 11
     openIssue: 41
     commit: 3
 total:
   release: 0
   mergedPR: 1109
-  openPR: 81
+  openPR: 82
   closedIssue: 1135
   openIssue: 255
   commit: 4110
 ---
 path: /home/runner/.x-repo/github.com/postmanlabs/newman
-collectedAt: 2026-09-11T04:28:33Z
+collectedAt: 2026-09-11T20:44:02Z
 loc:
   Json:
     code: 21104
