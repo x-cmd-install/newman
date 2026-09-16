@@ -30,9 +30,9 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (2/10) — Found 6/23 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,249 · **Forks**: 1,229 · **Open issues**: 1,390 · **Contributors**: 124
+- **Stars**: 7,249 · **Forks**: 1,230 · **Open issues**: 1,391 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1109 · **Open PRs**: 82 · **Closed issues**: 1135 · **Open issues**: 255 · **Commits**: 4110
+- **Releases**: 0 · **Merged PRs**: 1109 · **Open PRs**: 83 · **Closed issues**: 1135 · **Open issues**: 256 · **Commits**: 4110
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 4 | 0 | 1 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 10 | 1 | 5 | 0 |
-| 90d | 2026-06-17 | 0 | 0 | 13 | 1 | 5 | 0 |
-| last180d | 2026-03-19 | 0 | 0 | 19 | 1 | 8 | 0 |
-| 360d | 2025-09-20 | 0 | 1 | 21 | 8 | 15 | 2 |
-| last720d | 2024-09-25 | 0 | 1 | 31 | 11 | 41 | 3 |
+| 30d | 2026-08-17 | 0 | 0 | 5 | 0 | 2 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 11 | 1 | 6 | 0 |
+| 90d | 2026-06-18 | 0 | 0 | 14 | 1 | 6 | 0 |
+| last180d | 2026-03-20 | 0 | 0 | 20 | 1 | 9 | 0 |
+| 360d | 2025-09-21 | 0 | 1 | 22 | 8 | 16 | 2 |
+| last720d | 2024-09-26 | 0 | 1 | 32 | 11 | 42 | 3 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for newman lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T04:48:28Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T04:43:11Z._
