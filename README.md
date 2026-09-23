@@ -4,7 +4,7 @@
 
 Newman is a command-line collection runner for Postman
 
-[![x-cmd/install — newman Code Quality Monitoring Repo Card](https://repo.x-cmd.io/newman.svg)](https://x-cmd.com/install/newman)
+[![x-cmd/install — newman Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/newman.svg)](https://x-cmd.com/install/newman)
 
 ## Install
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 7 | 0 | 2 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 12 | 1 | 6 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 16 | 1 | 6 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 21 | 1 | 9 | 0 |
-| 360d | 2025-09-27 | 0 | 1 | 24 | 7 | 16 | 2 |
-| last720d | 2024-10-02 | 0 | 1 | 34 | 11 | 40 | 3 |
+| 30d | 2026-08-24 | 0 | 0 | 7 | 0 | 2 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 12 | 1 | 6 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 16 | 1 | 6 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 21 | 1 | 9 | 0 |
+| 360d | 2025-09-28 | 0 | 1 | 24 | 7 | 16 | 2 |
+| last720d | 2024-10-03 | 0 | 1 | 34 | 11 | 40 | 3 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for newman lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:43:59Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:43:05Z._
