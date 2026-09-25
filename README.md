@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,252 · **Forks**: 1,230 · **Open issues**: 1,391 · **Contributors**: 124
+- **Stars**: 7,253 · **Forks**: 1,230 · **Open issues**: 1,391 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 7 | 0 | 2 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 12 | 1 | 6 | 0 |
-| 90d | 2026-06-26 | 0 | 0 | 16 | 1 | 6 | 0 |
-| last180d | 2026-03-28 | 0 | 0 | 21 | 1 | 9 | 0 |
-| 360d | 2025-09-29 | 0 | 1 | 24 | 7 | 16 | 2 |
-| last720d | 2024-10-04 | 0 | 1 | 34 | 11 | 40 | 3 |
+| 30d | 2026-08-26 | 0 | 0 | 5 | 0 | 2 | 0 |
+| last60d | 2026-07-27 | 0 | 0 | 12 | 1 | 6 | 0 |
+| 90d | 2026-06-27 | 0 | 0 | 16 | 1 | 6 | 0 |
+| last180d | 2026-03-29 | 0 | 0 | 21 | 1 | 9 | 0 |
+| 360d | 2025-09-30 | 0 | 1 | 24 | 7 | 16 | 2 |
+| last720d | 2024-10-05 | 0 | 1 | 34 | 11 | 40 | 3 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for newman lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:36:07Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:47:41Z._
