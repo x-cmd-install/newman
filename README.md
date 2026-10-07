@@ -26,13 +26,13 @@ Total: **28,184** lines of code across **172** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.7 / 10**
+Overall score: **5 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (3/10) — Found 7/21 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (2/10) — Found 6/23 approved changesets -- score normalized to 2
+- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
 
 ## Source
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,259 · **Forks**: 1,229 · **Open issues**: 1,393 · **Contributors**: 123
+- **Stars**: 7,259 · **Forks**: 1,229 · **Open issues**: 1,392 · **Contributors**: 123
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1110 · **Open PRs**: 86 · **Closed issues**: 1135 · **Open issues**: 258 · **Commits**: 4113
+- **Releases**: 0 · **Merged PRs**: 1110 · **Open PRs**: 86 · **Closed issues**: 1135 · **Open issues**: 257 · **Commits**: 4113
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 1 | 5 | 0 | 2 | 2 |
-| last60d | 2026-08-07 | 0 | 1 | 8 | 1 | 3 | 2 |
-| 90d | 2026-07-08 | 0 | 1 | 17 | 1 | 8 | 2 |
-| last180d | 2026-04-09 | 0 | 1 | 22 | 1 | 10 | 2 |
-| 360d | 2025-10-11 | 0 | 2 | 25 | 7 | 18 | 4 |
-| last720d | 2024-10-16 | 0 | 2 | 35 | 11 | 41 | 6 |
+| 30d | 2026-09-07 | 0 | 1 | 5 | 0 | 2 | 2 |
+| last60d | 2026-08-08 | 0 | 1 | 8 | 0 | 3 | 2 |
+| 90d | 2026-07-09 | 0 | 1 | 17 | 1 | 7 | 2 |
+| last180d | 2026-04-10 | 0 | 1 | 22 | 1 | 9 | 2 |
+| 360d | 2025-10-12 | 0 | 2 | 25 | 7 | 17 | 4 |
+| last720d | 2024-10-17 | 0 | 2 | 35 | 11 | 40 | 6 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for newman lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:11:02Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:45:51Z._
