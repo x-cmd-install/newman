@@ -14,13 +14,13 @@ x install newman
 
 ## Code insight
 
-Total: **28,184** lines of code across **172** files in the top 5 languages.
+Total: **28,190** lines of code across **172** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 21,104 | 0 | 8 | 93 |
 | JavaScript | 6,132 | 1,384 | 1,391 | 72 |
-| Yaml | 816 | 6 | 13 | 3 |
+| Yaml | 822 | 6 | 14 | 3 |
 | Sh | 92 | 16 | 24 | 2 |
 | Dockerfile | 32 | 37 | 15 | 2 |
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,258 · **Forks**: 1,229 · **Open issues**: 1,392 · **Contributors**: 124
+- **Stars**: 7,259 · **Forks**: 1,229 · **Open issues**: 1,392 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 1111 · **Open PRs**: 86 · **Closed issues**: 1135 · **Open issues**: 257 · **Commits**: 4115
+- **Releases**: 0 · **Merged PRs**: 1111 · **Open PRs**: 86 · **Closed issues**: 1135 · **Open issues**: 257 · **Commits**: 4118
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 0 | 2 | 5 | 0 | 2 | 3 |
-| last60d | 2026-08-10 | 0 | 2 | 8 | 0 | 3 | 3 |
-| 90d | 2026-07-11 | 0 | 2 | 17 | 1 | 7 | 3 |
-| last180d | 2026-04-12 | 0 | 2 | 22 | 1 | 9 | 3 |
-| 360d | 2025-10-14 | 0 | 3 | 25 | 7 | 17 | 5 |
-| last720d | 2024-10-19 | 0 | 3 | 35 | 11 | 40 | 8 |
+| 30d | 2026-09-10 | 0 | 2 | 5 | 0 | 2 | 5 |
+| last60d | 2026-08-11 | 0 | 2 | 8 | 0 | 3 | 5 |
+| 90d | 2026-07-12 | 0 | 2 | 17 | 1 | 7 | 5 |
+| last180d | 2026-04-13 | 0 | 2 | 22 | 1 | 9 | 5 |
+| 360d | 2025-10-15 | 0 | 3 | 25 | 7 | 16 | 7 |
+| last720d | 2024-10-20 | 0 | 3 | 35 | 11 | 40 | 11 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for newman lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T05:59:07Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:40:41Z._
