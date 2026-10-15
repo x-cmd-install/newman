@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 2 | 4 | 0 | 2 | 5 |
-| last60d | 2026-08-15 | 0 | 2 | 8 | 0 | 3 | 5 |
-| 90d | 2026-07-16 | 0 | 2 | 13 | 1 | 7 | 5 |
-| last180d | 2026-04-17 | 0 | 2 | 19 | 1 | 9 | 5 |
-| 360d | 2025-10-19 | 0 | 3 | 24 | 7 | 16 | 7 |
-| last720d | 2024-10-24 | 0 | 3 | 34 | 11 | 40 | 11 |
+| 30d | 2026-09-15 | 0 | 2 | 3 | 0 | 1 | 5 |
+| last60d | 2026-08-16 | 0 | 2 | 8 | 0 | 3 | 5 |
+| 90d | 2026-07-17 | 0 | 2 | 13 | 1 | 7 | 5 |
+| last180d | 2026-04-18 | 0 | 2 | 19 | 1 | 9 | 5 |
+| 360d | 2025-10-20 | 0 | 3 | 24 | 7 | 16 | 7 |
+| last720d | 2024-10-25 | 0 | 3 | 34 | 11 | 40 | 11 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for newman lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:45:59Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:28:06Z._
