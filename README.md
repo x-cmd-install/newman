@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,267 · **Forks**: 1,232 · **Open issues**: 1,392 · **Contributors**: 124
+- **Stars**: 7,268 · **Forks**: 1,232 · **Open issues**: 1,392 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -52,12 +52,21 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 2 | 2 | 0 | 1 | 5 |
-| last60d | 2026-08-23 | 0 | 2 | 9 | 0 | 3 | 5 |
-| 90d | 2026-07-24 | 0 | 2 | 14 | 1 | 7 | 5 |
-| last180d | 2026-04-25 | 0 | 2 | 19 | 1 | 9 | 5 |
-| 360d | 2025-10-27 | 0 | 3 | 25 | 7 | 16 | 7 |
-| last720d | 2024-11-01 | 0 | 3 | 33 | 11 | 40 | 11 |
+| 30d | 2026-09-23 | 0 | 2 | 2 | 0 | 1 | 5 |
+| last60d | 2026-08-24 | 0 | 2 | 9 | 0 | 3 | 5 |
+| 90d | 2026-07-25 | 0 | 2 | 14 | 1 | 7 | 5 |
+| last180d | 2026-04-26 | 0 | 2 | 19 | 1 | 9 | 5 |
+| 360d | 2025-10-28 | 0 | 3 | 25 | 7 | 16 | 7 |
+| last720d | 2024-11-02 | 0 | 3 | 33 | 11 | 40 | 11 |
+
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/newman). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `6.2.3` | ✅ latest |
+| Nix unstable | `6.2.3` | ✅ latest |
 
 ## Improve this data
 
@@ -68,4 +77,4 @@ Install metadata for newman lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:31:21Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:36:39Z._
