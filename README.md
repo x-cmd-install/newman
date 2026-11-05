@@ -31,8 +31,8 @@ Overall score: **5.4 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (3/10) — Found 8/23 approved changesets -- score normalized to 3
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 1 | 6 | 0 | 0 | 2 |
-| last60d | 2026-09-05 | 0 | 2 | 11 | 0 | 2 | 5 |
-| 90d | 2026-08-06 | 0 | 2 | 14 | 1 | 3 | 5 |
-| last180d | 2026-05-08 | 0 | 2 | 24 | 1 | 7 | 5 |
-| 360d | 2025-11-09 | 0 | 3 | 30 | 7 | 16 | 7 |
-| last720d | 2024-11-14 | 0 | 3 | 38 | 11 | 40 | 11 |
+| 30d | 2026-10-06 | 0 | 1 | 6 | 0 | 0 | 2 |
+| last60d | 2026-09-06 | 0 | 2 | 11 | 0 | 2 | 5 |
+| 90d | 2026-08-07 | 0 | 2 | 14 | 1 | 3 | 5 |
+| last180d | 2026-05-09 | 0 | 2 | 24 | 1 | 7 | 5 |
+| 360d | 2025-11-10 | 0 | 3 | 30 | 7 | 16 | 7 |
+| last720d | 2024-11-15 | 0 | 3 | 37 | 11 | 40 | 11 |
 
 ## Distribution status
 
@@ -77,4 +77,4 @@ Install metadata for newman lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:06:07Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:30:22Z._
