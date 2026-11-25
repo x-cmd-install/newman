@@ -52,21 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-09-25 | 0 | 2 | 8 | 0 | 1 | 4 |
-| 90d | 2026-08-26 | 0 | 2 | 12 | 0 | 3 | 5 |
-| last180d | 2026-05-28 | 0 | 2 | 23 | 1 | 7 | 5 |
-| 360d | 2025-11-29 | 0 | 3 | 30 | 6 | 15 | 7 |
-| last720d | 2024-12-04 | 0 | 3 | 37 | 10 | 37 | 11 |
-
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/newman). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `6.2.3` | ✅ latest |
-| Nix unstable | `6.2.3` | ✅ latest |
+| 30d | 2026-10-26 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-09-26 | 0 | 2 | 8 | 0 | 1 | 4 |
+| 90d | 2026-08-27 | 0 | 2 | 12 | 0 | 2 | 5 |
+| last180d | 2026-05-29 | 0 | 2 | 23 | 1 | 7 | 5 |
+| 360d | 2025-11-30 | 0 | 3 | 30 | 6 | 15 | 7 |
+| last720d | 2024-12-05 | 0 | 3 | 37 | 10 | 37 | 11 |
 
 ## Improve this data
 
@@ -77,4 +68,4 @@ Install metadata for newman lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:44:04Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:19:09Z._
